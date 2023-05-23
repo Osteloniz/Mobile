@@ -1,9 +1,10 @@
 # Aplitivo Mobile de de Controle de Agenda de Professores.
 
-## Contato para ajuda com o projeto:
+## Video do Funcionamento do Projeto
 
-  Linkedin: www.linkedin.com/in/joão-henrique-osteloniz-murat-8299181b7
+  Link youtube: www.linkedin.com/in/joão-henrique-osteloniz-murat-8299181b7
 
 ## Contribuição e Desenvolvimento
 
+  João Gomes 👨🏼‍
   João Murat 👨🏼‍🎓
